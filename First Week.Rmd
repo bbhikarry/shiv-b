@@ -1,9 +1,9 @@
 ---
-title: "Presentation Ninja first week boy"
-subtitle: "&#x2694;&#xFE0F; xaringan +<br/>&#x1F60E; xaringanthemer"  
+title: "First week"
+subtitle: "&#x2694;&#xFE0F; Shiva +<br/>&#x1F60E; begins programming"  
 author: 
-  - "Yihui Xie"
-  - "Garrick Aden-Buie"
+  - "B Bhikarry"
+  - "S Beharry"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
@@ -38,6 +38,37 @@ style_duo_accent(
 )
 ```
 
+
+```{r, include=FALSE}
+library(countdown) 
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam(width = 300, height = 225)
+```
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
+```
+```{r, include=FALSE}
+bb <-"Bertrand Bhikarry"
+```
+## Conquering binary
+layout: false
+
+Whatever happens now will depend on focus.
+
+<input type= "checkbox" unchecked> <strong>World Wide Web</strong>?</input>
+
+<input type= "checkbox" unchecked> <strong>Desktop publishing</strong>?</input>
+
+The tools however remain the same;
+
+[Language](https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/#:~:text=Web%2Dbased%20startups%20are%20more,R%20and%20MATLAB%20programming%20languages.) > [IDE]() > [Editor]()  
+---
 ## Typography
 
 Text can be **bold**, _italic_, ~~strikethrough~~, or `inline code`.
