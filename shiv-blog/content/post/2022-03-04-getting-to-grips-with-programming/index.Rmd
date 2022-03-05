@@ -1,0 +1,44 @@
+---
+title: "Getting to grips with programming"
+author: "Bertrand"
+date: '2022-03-04'
+slug: getting-to-grips-with-programming
+tags: R Markdown
+categories: R
+---
+
+# A little bit of power
+
+ >Is a bitter thrill.  
+ 
+ Let's begin this journey. Why are we programming? Odds are its the need to interface with a computer given so much people use the things.  As you've found out, text languages are easier to work with (that's why so much programming languages exist).
+ 
+ We are about to learn R, a programming language but we are also going to use (R) inside an Integrated Developer Environment. This is called RStudio.
+ 
+ Your required reading now is to familiarise yourself and write down (use [Markdown](https://www.markdownguide.org/basic-syntax/)) a brief description as to R's reason for being. Forget the technical stuff, just say what its used for - and by whom.
+ 
+### Rstudio
+
+You should already have this IDE installed - on top of the R programme. 
+
+![awesome](images/rstudio.png){width=90%}
+
+### Modus
+
+Every time we meet the following structure applies: We'll begin at the top and work down the list
+
+1. **Remember**. Recall facts and basic concepts [*define, duplicate, list, memorise, repeat, state*]
+
+1. **Understand**. Explain ideas or concepts [*classify, descrie, discuss, explain, identify, locate, recognise, report, select, translate*]
+
+1. **Apply**. Use information in new situations [*execute,implement, solve, use, demonstrate, interpret, operate, schedule, sketch*]
+
+1. **Analyse**. Draw connections among new ideas [*differentiate, organise, relate, compare, contrast, distinguish, examine, experiment, question, test*]
+
+1. **Evaluate**. Justify a stand or decision [appraise, argue, defend, judge, select, support, value, critique, weigh]
+
+1. **Create** Produce a new or original work [*Design, assemble, construct, conjecture, develop, formulate, author, investigate*]
+
+
+ 
+ 

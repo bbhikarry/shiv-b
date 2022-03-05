@@ -1,0 +1,15 @@
+---
+title: The value of practice
+author: Bertrand
+date: '2022-03-05'
+slug: the-value-of-practice
+categories:
+  - Markdown
+tags:
+  - R Markdown
+  - Markdown
+---
+
+## Practice is prework
+
+Cannot be said enough. Get behind that keyboard.
